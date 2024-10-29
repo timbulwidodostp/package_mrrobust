@@ -1,5 +1,42 @@
-d 'DEA': Data envelopment analysis
+d 'mrrobust': MR-Egger regression type analyses Use mregger And lincom And mrmedian And mrmodal And mreggersimex (mrrobust) With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mr.ado
+f mr.sthlp
+f mrdeps.ado
+f mrdeps.sthlp
+f mregger.ado
+f mregger.sthlp
+f mreggerplot.ado
+f mreggerplot.sthlp
+f mreggersimex.ado
+f mreggersimex.sthlp
+f mreggersimexonce.ado
+f mrforest.ado
+f mrforest.sthlp
+f mrfunnel.ado
+f mrfunnel.sthlp
+f mrivests.ado
+f mrivests.sthlp
+f mrleaveoneout.ado
+f mrleaveoneout.sthlp
+f mrmedian.ado
+f mrmedian.sthlp
+f mrmedianobs.ado
+f mrmedianobs.sthlp
+f mrmedianobs_work.ado
+f mrmodal.ado
+f mrmodal.sthlp
+f mrmodalplot.ado
+f mrmodalplot.sthlp
+f mrmvegger.ado
+f mrmvegger.sthlp
+f mrmvivw.ado
+f mrmvivw.sthlp
+f mrratio.ado
+f mrratio.sthlp
+f mrrobust-author.ihlp
+f mrrobust.sthlp
+f mvivw.ado
+f mvivw.sthlp
+f mvmr.ado
+f mvmr.sthlp
