@@ -1,5 +1,12 @@
-d 'DEA': Data envelopment analysis
+d 'kdens_grc1leg': kdens_grc1leg
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _kdens.ado
+f _kdens.hlp
+f grc1leg.ado
+f grc1leg.hlp
+f kdens.ado
+f kdens.hlp
+f kdens.mata
+f lkdens.mlib
+f mf_kdens.hlp
+f twoway_kdens_parse.class
